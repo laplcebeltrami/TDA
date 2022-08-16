@@ -12,9 +12,6 @@ https://pages.stat.wisc.edu/~mchung/papers/chung.2019.ISBI.pdf
 ![alt text](https://github.com/laplcebeltrami/TDA/blob/main/betti-curves.jpg?raw=true)
 
 
-![alt text](https://github.com/laplcebeltrami/TDA/blob/main/betti-curves.jpg?raw=true)
-
-
 
 
 (C) 2022 Moo K. Chung
