@@ -9,8 +9,7 @@ Chung, M.K., Huang, S.-G., Gritsenko, A., Shen, L., Lee, H. 2019 Statistical inf
 https://pages.stat.wisc.edu/~mchung/papers/chung.2019.ISBI.pdf
 
 
-![](https://github.com/laplcebeltrami/TDA/blob/main/betti-curves.png)
-
+![Betti curves](https://github.com/laplcebeltrami/TDA/blob/main/betti-curves.jpg?raw=true)
 
 
 
