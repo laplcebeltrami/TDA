@@ -8,7 +8,7 @@ https://pages.stat.wisc.edu/~mchung/papers/chung.2019.NN
 Chung, M.K., Huang, S.-G., Gritsenko, A., Shen, L., Lee, H. 2019 Statistical inference on the number of cycles in brain networks. IEEE International Symposium on Biomedical Imaging (ISBI) 113-116 
 https://pages.stat.wisc.edu/~mchung/papers/chung.2019.ISBI.pdf
 
-You should get the following topological data visulization.
+You should get the following topological data visulization if you run SCRIPT.m
 
 ![](https://github.com/laplcebeltrami/TDA/blob/master/betticurves.jpg)
 
