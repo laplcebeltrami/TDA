@@ -11,11 +11,6 @@ https://pages.stat.wisc.edu/~mchung/papers/chung.2019.ISBI.pdf
 
 ![alt text](https://github.com/laplcebeltrami/TDA/blob/main/betti-curves.jpg?raw=true)
 
-One way to remedy the problem is connecting data across the start and end points as in Huang, S.-G., Chung, M.K., Carroll, I.C., Goldsmith, H.H. 2019 Dynamic functional connectivity using heat kernel. IEEE Data Science Workshop (DSW), 222-226
-https://pages.stat.wisc.edu/~mchung/papers/huang.2019.DSW.pdf
-
-However, it is not working. See if you can find the quick-fix to the problem.
-
 
 (C) 2022 Moo K. Chung
 University of Wisconsin-Madison
