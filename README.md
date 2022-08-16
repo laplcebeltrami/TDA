@@ -9,9 +9,6 @@ Chung, M.K., Huang, S.-G., Gritsenko, A., Shen, L., Lee, H. 2019 Statistical inf
 https://pages.stat.wisc.edu/~mchung/papers/chung.2019.ISBI.pdf
 
 
-![Betti curves](https://github.com/laplcebeltrami/TDA/blob/main/betticurves.jpg?raw=true)
-
-
 
 (C) 2022 Moo K. Chung
 University of Wisconsin-Madison
