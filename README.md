@@ -1,4 +1,4 @@
-%%% Betti Curves over Graph Filtrations
+### Betti Curves over Graph Filtrations
 
 The codes compute and display monotone Betti-0 and Betti-1 curves over graph filtations introduced in
 
